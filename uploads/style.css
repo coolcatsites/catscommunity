@@ -3,8 +3,8 @@ body {
 background: linear-gradient(331deg, rgba(203,0,255,1) 0%, rgba(79,26,108,1) 50%, rgba(9,9,121,1) 100%);
 }
 
-a {
+button {
     background-color: rgb(29, 175, 119);
-    color: rgb(177, 23, 23);
- 
+    margin-left: 6px; 
+    margin-right:6px;
 }
