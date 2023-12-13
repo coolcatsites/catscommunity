@@ -3,4 +3,5 @@ This is a Changelog file in the form of a .txt file at : https://coolcatsites.gi
 12/13/23
 - Added /sitemap.txt
 - Added /aboutus.html
-- Updated /aboutus.html
+- Updated /aboutus.html x2
+- Updated /uploads/style.css

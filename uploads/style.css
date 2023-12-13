@@ -1,9 +1,13 @@
 body {
- background-color: darkblue;
+ background-color: #00008b;
 }
 
 button {
-    background-color: rgb(29, 175, 119);
+    background-color: #1daf77;
     margin-left: 6px; 
     margin-right:6px;
+}
+
+.txt-back {
+    background-color: #21d7d7;
 }
